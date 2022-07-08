@@ -1,0 +1,6 @@
+C:\Users\ruqal\Documents\DuckGame\Mods\BartenderMod\build\obj\x86\Debug\BartenderMod.csproj.AssemblyReference.cache
+C:\Users\ruqal\Documents\DuckGame\Mods\BartenderMod\build\obj\x86\Debug\BartenderMod.csproj.CoreCompileInputs.cache
+C:\Users\ruqal\Documents\DuckGame\Mods\BartenderMod\build\obj\x86\Debug\BartenderMod.dll
+C:\Users\ruqal\Documents\DuckGame\Mods\BartenderMod\build\obj\x86\Debug\BartenderMod.pdb
+C:\Users\ruqal\Documents\DuckGame\Mods\BartenderMod\BartenderMod.dll
+C:\Users\ruqal\Documents\DuckGame\Mods\BartenderMod\BartenderMod.pdb
